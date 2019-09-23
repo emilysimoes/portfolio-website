@@ -966,6 +966,74 @@ margin-bottom: 1rem;
     margin-top: -1%;
 }
 
+/* -------------------- BRANDING PAGE STYLES -------------------- */
+
+
+.branding_head_pic{
+    position: relative;
+    display: inline-block;
+    float: right;
+    margin-right: 10%;
+    margin-top: 10%;
+    width:36vw;
+    height: auto; 
+}
+
+.blum1{
+    position: relative;
+    float: left;
+    width: 35%;
+    margin-left: 10%;
+    margin-top: 3.5%;
+}
+
+.blum2{
+    position: relative;
+    float: left;
+    width: 37%;
+    margin-left: 7.75%;
+    margin-top: 3%;
+    margin-bottom: 0%;
+}
+
+.ror3{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+.ror4{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5.5%;
+}
+
+.ror5{
+    position: relative;
+    float: left;
+    width: 38.5%;
+    margin-left: 10%;
+    margin-top: 5.5%;
+    margin-bottom: 0%;
+}
+
+.ror6{
+    position: relative;
+    float: left;
+    width: 38.5%;
+    margin-left: 3%;
+    margin-top: 5.5%;
+    margin-bottom: 0%;
+}
+
+.ror7{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5.5%;
+    margin-bottom: 4%;
+}
+
+
 
 /* -------------------- TYPOGRAPHY PAGE STYLES -------------------- */
 
@@ -1171,7 +1239,18 @@ margin-bottom: 1rem;
     margin-top: 0%;
     width: 80%;
     margin-left: 10%;
-}       
+}
+    
+.branding_head_pic{
+   position: relative;
+    display: inline-block;
+    float: right;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width:80%;
+    height: auto;  
+} 
     
 .type_head_pic{
     display: inline-block;
@@ -1690,6 +1769,23 @@ margin-bottom: 1rem;
         margin-top: 4%;
         margin-bottom: 8%;   
     } 
+    
+.blum1{
+    position: relative;
+    float: left;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 3.5%;
+} 
+    
+.blum2{
+    position: relative;
+    float: left;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}    
     
 .print_head_pic{
     display: inline-block;
