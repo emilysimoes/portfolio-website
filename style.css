@@ -565,11 +565,12 @@ margin-bottom:1rem;
     display: inline-block;
     width: 42%;
     margin-left: 8%;
-    margin-top: 33vh;
+    margin-top: 25vh;
+    
 }
 
 .about_h1_holder h1{
-    font-size: 23px;
+    font-size: 21px;
     line-height: 32px;
     margin-bottom: 0;
 }
@@ -1864,13 +1865,13 @@ margin-bottom: 1rem;
     display: inline-block;
     width: 38vw!important;
     margin-left:0vw!important;
-    margin-top: 30%!important;
+    margin-top: 10vw!important;
 }
 
 .about_h1_holder h1{
-    font-size: 2vw!important;
+    font-size: 1.65vw!important;
     line-height: 2.75vw;
-    margin-bottom: 0;
+    margin-bottom: 10%;
 } 
     
     
